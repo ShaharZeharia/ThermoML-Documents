@@ -32,7 +32,7 @@ ThermoML leverages advanced Deep Learning models to deliver accurate and efficie
 
   
 
-For detailed setup instructions, usage guidelines, and more, please refer to the [User Guide](./User Guide.pdf) included in this repository.
+For detailed setup instructions, usage guidelines, and more, please refer to the [User Guide](./User%20Guide.pdf) included in this repository.
 
   
 
